@@ -1,0 +1,6 @@
+=============================
+Nombre: Piero
+Distrito: LaVictoria
+Metodo de Pago: pos
+Restaurante: PizzaHut
+=============================
